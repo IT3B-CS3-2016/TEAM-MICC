@@ -2,6 +2,7 @@
 
 "Health Care Checker"
 
+        
         In this system the nurse and the doctor of a hospital will be using it, when a nurse is doing his/her daily rounds for each patient
 assign to them he/she will just record  it in the said  system that will  be  directly recorded and can be seen by the doctor  to check and 
 update about the patients condition. The data will be in graph format  for a easier check of  the patients update when the doctor  looks at
